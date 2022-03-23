@@ -1,1 +1,2 @@
+add: File Fitur Landing Page ref #7
 Ini contoh file untuk Landing Page
